@@ -1,0 +1,35 @@
+{
+     "nama" :   "Imronkhoerunalmuminun",
+     "age"  :   25,
+     "adress" : "Jl.Sukabumi dalam gang honda no.4c Bandung",
+     "hobbies": [
+         "coding","gaming","swimming"
+        ],
+     "is_married": false,
+     "list_school":[
+            {
+             "SD": "Tinggarjaya 01 Cilacap",
+             "year_in":"2000",
+             "year_out":"2007"
+        },
+            {
+            "SMP": "Mts Darul Qurro Kawunganten Cilacap",
+            "year_in": "2007",
+            "year_out": "2010"
+        }
+            {
+                "SMA": "Darul Qurro Kawunganten Cilacap",
+                "year_in": "2010",
+                "year_out": "2013"
+            }
+        ],
+        "if any": [],
+        "if not set": "null" 
+     "skills":[
+         {
+             "coding":"beginner"
+         }
+    ],
+    "interest_in_coding": true
+
+}
